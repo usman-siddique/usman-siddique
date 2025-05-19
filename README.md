@@ -2,67 +2,57 @@
 <h3 align="center">Aspiring Software Quality Assurance Engineer | SQA Intern</h3>
 
 <p align="center">
-  🌱 Currently learning <b>Manual Software Testing, Agile Methodologies, and Jira</b><br>
-  🧪 Passionate about ensuring software quality through structured testing processes<br>
-  📚 Recently completed <b>“Learn Manual Software Testing + Agile with Jira Tool”</b> on Udemy<br>
-  🚀 Building a mini QA project portfolio with detailed test cases and bug reports<br>
+  🌱 Currently focusing on Manual Software Testing, Agile Methodologies, and Jira Tool<br>
+  🧪 Passionate about ensuring high-quality software through detailed testing and defect tracking<br>
+  🎓 Completed <b>“Learn Manual Software Testing + Agile with Jira Tool”</b> on Udemy (2025)<br>
+  🛠️ Previously explored Flutter Development during ITM Training Program (2023)<br>
+  🔍 Building a QA portfolio with real test cases, bug reports, and process documentation
 </p>
 
 ---
 
-### 💼 Internship Experience
+### 💼 Internship & Projects
 
-- 🧪 **SQA Intern**  
-  Hands-on QA practices including:
-  - Manual Testing
-  - Test Case Writing (Step-by-step format)
-  - Bug Reporting
-  - Agile Process with Jira Tool
-  - Project: E-commerce Website Testing (OpenCart)
+- **SQA Intern**  
+  - Hands-on manual testing of web and desktop applications  
+  - Writing detailed test cases with step-by-step instructions  
+  - Bug tracking and reporting using Jira  
+  - Participated in Agile Scrum processes  
 
----
-
-### 📘 Courses & Certifications
-
-- ✅ **Learn Manual Software Testing + Agile with Jira Tool**  
-  Platform: Udemy (Instructor: Pavan Kumar)  
-  Year: 2025  
-  Topics Covered:
-  - Requirements Analysis
-  - Test Design Techniques
-  - Test Case Writing & Execution
-  - Defect Reporting using Jira
-  - Agile Scrum Process
+- **Notable Projects**  
+  - OpenCart E-commerce Website Testing  
+  - POS System Testing (Internal Project)  
 
 ---
 
-### 🧰 Tools & Technologies
+### 📚 Certifications
 
-- 🧪 Manual Testing
-- 📌 Jira
-- ✅ Test Case Design
-- 🐞 Bug Reporting
-- 🧠 Agile (Scrum Basics)
-- 💻 SQL (Basics)
+- **Learn Manual Software Testing + Agile with Jira Tool** — Udemy (2025)  
+  - Manual test case design & execution  
+  - Agile Scrum fundamentals  
+  - Jira defect management  
 
 ---
 
-### 📂 QA Portfolio Projects (Coming Soon)
+### 🛠️ Tools & Skills
 
-| Project | Type | Description |
-|--------|------|-------------|
-| POS System QA | Desktop | Test cases & bug reports for a small POS system |
-| OpenCart QA | Web App | Manual testing of an e-commerce website |
-| Portfolio Repo | GitHub | Collection of QA documents and artifacts |
+- Manual Testing  
+- Test Case Design  
+- Bug Tracking & Reporting (Jira)  
+- Agile & Scrum Methodology  
+- Basic SQL for testing  
+- Requirement Analysis  
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect with Me
 
-- 📧 Email: [usmansiddique007021@gmail.com](mailto:usmansiddique007021@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/m-usman-siddique](https://www.linkedin.com/in/m-usman-siddique)  
-- 🐙 GitHub: [github.com/usman-siddique](https://github.com/usman-siddique)
+- 📧 Email: your.email@example.com  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🐙 GitHub: [github.com/usman-siddique](https://github.com/usman-siddique)  
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usman-siddique&label=Profile%20views&color=0e75b6&style=flat" alt="usman-siddique" />
+  <img src="https://komarev.com/ghpvc/?username=usman-siddique&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
