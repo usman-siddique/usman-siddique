@@ -47,8 +47,8 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 📧 Email: [usmansiddique007021@gmail.com](mailto:usmansiddique007021@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/m-usman-siddique](https://linkedin.com/in/m-usman-siddique)  
 - 🐙 GitHub: [github.com/usman-siddique](https://github.com/usman-siddique)  
 
 ---
