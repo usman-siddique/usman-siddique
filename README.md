@@ -1,47 +1,48 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">Aspiring Software Quality Assurance Engineer | SQA Intern</h3>
+<h3 align="center">Associate SQA Engineer at Prisma Technologies</h3>
 
 <p align="center">
-  🌱 Currently focusing on Manual Software Testing, Agile Methodologies, and Jira Tool<br>
-  🧪 Passionate about ensuring high-quality software through detailed testing and defect tracking<br>
-  🎓 Completed <b>“Learn Manual Software Testing + Agile with Jira Tool”</b> on Udemy (2025)<br>
-  🛠️ Previously explored Flutter Development during ITM Training Program (2023)<br>
-  🔍 Building a QA portfolio with real test cases, bug reports, and process documentation
+  🧪 Focused on delivering high-quality software through structured manual testing<br>
+  🧰 Using tools like Zephyr Scale, Postman, Jira, and SQL for end-to-end test coverage<br>
+  🔍 Building a QA portfolio with real test cases, bug reports, and test documentation<br>
+  🧠 Strong understanding of functional, regression, UI/UX, and exploratory testing
 </p>
 
 ---
 
-### 💼 Internship & Projects
+### 💼 Experience & Projects
 
-- **SQA Intern**  
-  - Hands-on manual testing of web and desktop applications  
-  - Writing detailed test cases with step-by-step instructions  
-  - Bug tracking and reporting using Jira  
-  - Participated in Agile Scrum processes  
+- **Associate SQA Engineer – Prisma Technologies (Jan 2025 – Present)**  
+  - Manual testing of web and desktop applications  
+  - Writing detailed test cases in Zephyr Scale  
+  - Bug tracking using Jira with proper severity/priority tagging  
+  - Validated REST APIs using Postman  
+  - Participated in Agile/Scrum ceremonies and sprint testing
 
-- **Notable Projects**  
-  - OpenCart E-commerce Website Testing  
-  - POS System Testing (Internal Project)  
+- **Projects**
+  - 🛒 **OpenCart E-commerce Website** – End-to-end testing, bug reporting, UI validation  
+  - 💻 **POS System (.NET)** – Inventory & invoice module testing, user flow validation, SQL query checks  
 
 ---
 
 ### 📚 Certifications
 
-- **Learn Manual Software Testing + Agile with Jira Tool** — Udemy (2025)  
-  - Manual test case design & execution  
-  - Agile Scrum fundamentals  
-  - Jira defect management  
+- **Learn API Testing using Postman** — Udemy | 2025  
+- **Learn Manual Software Testing + Agile with Jira Tool** — Udemy | 2024  
+- **IT Mustakbil Training Program** — Systems Ltd | 2024
 
 ---
 
 ### 🛠️ Tools & Skills
 
 - Manual Testing  
-- Test Case Design  
-- Bug Tracking & Reporting (Jira)  
-- Agile & Scrum Methodology  
-- Basic SQL for testing  
-- Requirement Analysis  
+- Test Case Design (Zephyr Scale, Excel)  
+- Bug Reporting (Jira)  
+- API Testing (Postman)  
+- SQL for data validation  
+- Agile & Scrum  
+- Functional, Regression, UI/UX, Exploratory Testing  
+- Platforms: Web, Desktop, Mobile (basic Android/iOS)
 
 ---
 
@@ -49,7 +50,7 @@
 
 - 📧 Email: [usmansiddique007021@gmail.com](mailto:usmansiddique007021@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/m-usman-siddique](https://linkedin.com/in/m-usman-siddique)  
-- 🐙 GitHub: [github.com/usman-siddique](https://github.com/usman-siddique)  
+- 🐙 GitHub: [github.com/usman-siddique](https://github.com/usman-siddique)
 
 ---
 
