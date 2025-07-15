@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">Associate SQA Engineer at Prisma Technologies</h3>
+<h3 align="center">Associate SQA Engineer at Cross Solutions</h3>
 
 <p align="center">
   🧪 Focused on delivering high-quality software through structured manual testing<br>
