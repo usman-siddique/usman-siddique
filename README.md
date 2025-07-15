@@ -12,7 +12,7 @@
 
 ### 💼 Experience & Projects
 
-- **Associate SQA Engineer – Prisma Technologies (Jan 2025 – Present)**  
+- **Associate SQA Engineer – Cross Solutions (Dec 2024 – Present)**  
   - Manual testing of web and desktop applications  
   - Writing detailed test cases in Zephyr Scale  
   - Bug tracking using Jira with proper severity/priority tagging  
