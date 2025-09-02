@@ -3,7 +3,7 @@
 
 <p align="center">
   🧪 Focused on delivering high-quality software through structured manual testing<br>
-  🧰 Using tools like Zephyr Scale, Postman, Jira, and SQL for end-to-end test coverage<br>
+  🧰 Using tools like Zephyr Scale, TestRail, Postman, Jira, and SQL for end-to-end test coverage<br>
   🔍 Building a QA portfolio with real test cases, bug reports, and test documentation<br>
   🧠 Strong understanding of functional, regression, UI/UX, and exploratory testing
 </p>
