@@ -1,59 +1,57 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">Associate SQA Engineer at Cross Solutions</h3>
+<h3 align="center">Junior SQA Engineer | SAT Japan</h3>
 
 <p align="center">
-  🧪 Focused on delivering high-quality software through structured manual testing<br>
-  🧰 Using tools like Zephyr Scale, TestRail, Postman, Jira, and SQL for end-to-end test coverage<br>
-  🔍 Building a QA portfolio with real test cases, bug reports, and test documentation<br>
-  🧠 Strong understanding of functional, regression, UI/UX, and exploratory testing
+  🧪 Ensuring high-quality software through structured Functional, UI/UX, Exploratory & Regression testing <br>
+  📱 Testing Web + Mobile Apps (iOS & Android) on real devices <br>
+  🔍 Validating REST APIs using Postman <br>
+  🐞 Reporting issues in Jira with proper severity & priority  
 </p>
 
 ---
 
-### 💼 Experience & Projects
+### 💼 Experience
 
-- **Associate SQA Engineer – Cross Solutions (Feb 2025 – Present)**  
-  - Manual testing of web and desktop applications  
-  - Writing detailed test cases in Zephyr Scale  
-  - Bug tracking using Jira with proper severity/priority tagging  
-  - Validated REST APIs using Postman  
-  - Participated in Agile/Scrum ceremonies and sprint testing
+- **Junior SQA Engineer — SAT Japan (Dec 2025 – Present)**  
+  - Functional, UI/UX, regression & exploratory testing of SAT website & mobile apps  
+  - API validation using Postman  
+  - Bug reporting & tracking in Jira  
+  - Testing iOS TestFlight builds & Android internal builds  
 
-- **Projects**
-  - 🛒 **OpenCart E-commerce Website** – End-to-end testing, bug reporting, UI validation  
-  - 💻 **POS System (.NET)** – Inventory & invoice module testing, user flow validation, SQL query checks  
+- **Associate SQA Engineer — Cross Solutions (Dec 2024 – 2025)**  
+  - Manual testing of web & desktop applications  
+  - Test case writing in Zephyr Scale  
+  - API + SQL validation  
+  - Agile/Scrum sprint participation  
 
 ---
 
 ### 📚 Certifications
-
-- **Learn API Testing using Postman** — Udemy | 2025  
-- **Learn Manual Software Testing + Agile with Jira Tool** — Udemy | 2024  
-- **IT Mustakbil Training Program** — Systems Ltd | 2024
+- API Testing with Postman — Udemy  
+- Manual Testing + Agile with Jira — Udemy  
+- IT Mustakbil Training Program — Systems Ltd  
 
 ---
 
-### 🛠️ Tools & Skills
-
+### 🛠️ Skills & Tools
 - Manual Testing  
-- Test Case Design (Zephyr Scale, Excel)  
-- Bug Reporting (Jira)  
-- API Testing (Postman)  
-- SQL for data validation  
-- Agile & Scrum  
 - Functional, Regression, UI/UX, Exploratory Testing  
-- Platforms: Web, Desktop, Mobile (basic Android/iOS)
+- Jira • Zephyr Scale • TestRail  
+- Postman (API Testing)  
+- SQL (Basic DB validation)  
+- Platforms: Web, Desktop, iOS, Android  
+- Agile / Scrum  
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect With Me
 
-- 📧 Email: [usmansiddique007021@gmail.com](mailto:usmansiddique007021@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/m-usman-siddique](https://linkedin.com/in/m-usman-siddique)  
-- 🐙 GitHub: [github.com/usman-siddique](https://github.com/usman-siddique)
+- 📧 Email: **usmansiddique007021@gmail.com**  
+- 🔗 LinkedIn: **https://linkedin.com/in/m-usman-siddique**  
+- 🐙 GitHub: **https://github.com/usman-siddique**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usman-siddique&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=usman-siddique&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
