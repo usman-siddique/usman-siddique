@@ -12,7 +12,7 @@
 
 ### 💼 Experience
 
-- **Junior SQA Engineer — SAT Japan (Dec 2025 – Present)**  
+- **Junior SQA Engineer — SAT Japan (Nov 2025 – Present)**  
   - Functional, UI/UX, regression & exploratory testing of SAT website & mobile apps  
   - API validation using Postman  
   - Bug reporting & tracking in Jira  
