@@ -1,71 +1,114 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">Junior SQA Engineer | SAT Japan</h3>
+<h3 align="center">Junior SQA Engineer · SAT Japan</h3>
+
 <p align="center">
-🧪 Ensuring high-quality software through structured Functional, UI/UX, Exploratory & Regression testing <br>
-📱 Testing Web + Mobile Apps (iOS & Android) <br>
-🔍 Validating REST APIs using Postman <br>
-⚡ Familiar with performance testing using JMeter <br>
-🐞 Reporting issues in Jira with proper severity & priority <br>
-🤖 Exploring test automation with Playwright & Python
+  Quality-focused software tester with hands-on experience in manual, API, and automated testing<br>
+  of web and mobile applications, actively building automation skills with Playwright & Python.
+</p>
+
+<p align="center">
+  <a href="mailto:usmansiddique007021@gmail.com">📧 Email</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/m-usman-siddique">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/usman-siddique">🐙 GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=usman-siddique&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 💼 Experience
-- **Junior SQA Engineer | SAT Japan (March 2025 – Present)**
-  - Functional, UI/UX, regression & exploratory testing of SAT web & mobile applications
-  - API validation using Postman
-  - Bug reporting & tracking in Jira
-  - Testing iOS TestFlight builds & Android internal builds
+## 🧪 What I Do
 
-- **SQA Internship | Cross Solutions (Dec 2024 – Feb 2025)**
-  - Manual testing of web & desktop applications
-  - Test case writing using Zephyr Scale
-  - API & basic SQL validation
-  - Participation in Agile/Scrum sprints
+🔍 &nbsp;Functional, Regression, Exploratory & UI/UX Testing  Web & Mobile (iOS & Android)  
+📡 &nbsp;REST API Testing & Validation using Postman  
+⚡ &nbsp;Performance & Load Testing with Apache JMeter  
+🤖 &nbsp;Test Automation with Playwright + Python (POM, pytest, multi-browser)  
+🐞 &nbsp;Defect tracking & sprint participation in Jira (Agile/Scrum)  
 
 ---
 
-### 📚 Certifications
-- Master JMeter on Live Apps for Performance Testing | Coursera
-- API Testing with Postman | Udemy
-- Manual Testing & Agile with Jira | Udemy
-- IT Mustakbil Training Program | Systems Ltd
+## 💼 Experience
+
+**🏢 Junior SQA Engineer at SAT Japan** *(Mar 2025 – Present)*  
+- Functional, regression, exploratory, and UI/UX testing on web and mobile (iOS & Android)  
+- API testing with Postman for vehicle listings, auctions, and authentication flows  
+- Defect tracking and sprint participation in Jira  
+- Built and maintain a Playwright automation framework with 36+ tests using Page Object Model  
+- Supports headed/headless, parallel execution (`pytest-xdist`), and multi-browser (Chromium, Firefox)  
+
+**🏢 SQA Intern at Cross Solutions** *(Dec 2024 – Feb 2025)*  
+- Tested SaaS modules including Mock Exams and Course Library  
+- Wrote and executed test cases in Zephyr Scale; logged bugs in Jira  
+- Performed API and basic SQL validation  
 
 ---
 
-### 🛠️ Skills & Tools
+## 🔧 Featured Project
 
-**Testing:**
-- Manual Testing (Functional, Regression, UI/UX, Exploratory)
-- API Testing (Postman)
-- Performance Testing Basics (JMeter)
-- Test Automation (Learning: Playwright with Python)
+### [SAT Japan Test Automation Framework](https://github.com/usman-siddique/SAT_Automation)
 
-**Tools & Platforms:**
-- Jira • Zephyr Scale • TestRail
-- Postman • JMeter • Playwright (Learning)
-- SQL (Basic DB validation)
-- Web, Desktop, iOS, Android
+> End-to-end automation framework for a global automotive e-commerce platform.
 
-**Methodologies:**
-- Agile / Scrum
+| 🏷️ Detail | 📌 Info |
+|---|---|
+| Stack | Python · Playwright · pytest |
+| Pattern | Page Object Model (POM) |
+| Coverage | 36+ tests covering Sell My Car, Car Services, and end-to-end flows |
+| Execution | Headed / Headless, Parallel (`pytest-xdist`), Multi-browser (Chromium, Firefox) |
+| Reporting | pytest-html with auto-screenshots on failure |
 
 ---
 
-### 🚀 Currently Learning
-- **Playwright with Python** for web automation testing
-- Building foundational automation skills to complement manual testing expertise
+## 🛠️ Skills & Tools
+
+**🧪 Testing**  
+Manual Testing, API Testing (Postman), Database Testing (SQL), Test Automation (Playwright + Python), Performance Testing (JMeter)  
+
+**🔨 Tools**  
+Jira, Zephyr Scale, TestRail, Postman, JMeter, Playwright, Git, GitHub  
+
+**🗄️ Database**  
+SQL (MySQL, SQL Server) for data validation and integrity checks  
+
+**📱 Platforms**  
+Web, Desktop, iOS, Android  
+
+**⚙️ Methodology**  
+Agile / Scrum  
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: **usmansiddique007021@gmail.com**
-- 🔗 LinkedIn: **https://linkedin.com/in/m-usman-siddique**
-- 🐙 GitHub: **https://github.com/usman-siddique**
+## 📚 Certifications
+
+- 🎓 Playwright Python & Pytest for Web Automation Testing (Coursera, 2026)  
+- 🎓 Master JMeter on Live Apps for Performance Testing (Coursera, 2026)  
+- 🎓 API Testing with Postman (Udemy)  
+- 🎓 Manual Testing & Agile with Jira (Udemy)  
+- 🎓 IT Mustakbil Training Program (Systems Ltd, 2024)  
 
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=usman-siddique&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/usman-siddique">
+    <img src="https://github-readme-stats.vercel.app/api?username=usman-siddique&show_icons=true&theme=default&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/usman-siddique">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-siddique&layout=compact&hide_border=true" width="40%" />
+  </a>
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advancing Playwright automation, expanding test coverage and framework features  
+- Exploring AI-powered testing tools and techniques  
+- Integrating CI/CD pipelines (GitHub Actions) for continuous test execution  
+- Improving SQL skills for deeper backend and database testing  
+
+---
+
+<p align="center"><i>Building quality software, one test at a time. 🚀</i></p>
