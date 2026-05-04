@@ -107,7 +107,6 @@ Agile / Scrum
 - Advancing Playwright automation, expanding test coverage and framework features  
 - Exploring AI-powered testing tools and techniques  
 - Integrating CI/CD pipelines (GitHub Actions) for continuous test execution  
-- Improving SQL skills for deeper backend and database testing  
 
 ---
 
