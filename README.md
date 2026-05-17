@@ -89,19 +89,6 @@ Agile / Scrum
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/usman-siddique">
-    <img src="https://github-readme-stats.vercel.app/api?username=usman-siddique&show_icons=true&theme=default&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/usman-siddique">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-siddique&layout=compact&hide_border=true" width="40%" />
-  </a>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advancing Playwright automation, expanding test coverage and framework features  
