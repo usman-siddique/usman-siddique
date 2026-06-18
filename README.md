@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">Junior SQA Engineer · SAT Japan</h3>
+<h3 align="center">SQA Engineer · SAT Japan</h3>
 
 <p align="center">
   Quality-focused software tester with hands-on experience in manual, API, and automated testing<br>
@@ -23,6 +23,7 @@
 🔍 &nbsp;Functional, Regression, Exploratory & UI/UX Testing  Web & Mobile (iOS & Android)  
 📡 &nbsp;REST API Testing & Validation using Postman  
 ⚡ &nbsp;Performance & Load Testing with Apache JMeter  
+🗄️ &nbsp;Database Testing – Data validation, integrity checks, and backend verification using SQL (MySQL, SQL Server)  
 🤖 &nbsp;Test Automation with Playwright + Python (POM, pytest, multi-browser)  
 🐞 &nbsp;Defect tracking & sprint participation in Jira (Agile/Scrum)  
 
@@ -30,14 +31,14 @@
 
 ## 💼 Experience
 
-**🏢 Junior SQA Engineer at SAT Japan** *(Mar 2025 – Present)*  
+**🏢 SQA Engineer at SAT Japan** *(Aug 2024 – Present)*  
 - Functional, regression, exploratory, and UI/UX testing on web and mobile (iOS & Android)  
 - API testing with Postman for vehicle listings, auctions, and authentication flows  
 - Defect tracking and sprint participation in Jira  
 - Built and maintain a Playwright automation framework with 36+ tests using Page Object Model  
 - Supports headed/headless, parallel execution (`pytest-xdist`), and multi-browser (Chromium, Firefox)  
 
-**🏢 SQA Intern at Cross Solutions** *(Dec 2024 – Feb 2025)*  
+**🏢 SQA Intern at Cross Solutions** *(May 2024 – July 2024)*  
 - Tested SaaS modules including Mock Exams and Course Library  
 - Wrote and executed test cases in Zephyr Scale; logged bugs in Jira  
 - Performed API and basic SQL validation  
