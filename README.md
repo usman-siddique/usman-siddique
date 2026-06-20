@@ -67,7 +67,7 @@
 Manual Testing, API Testing (Postman), Database Testing (SQL), Test Automation (Playwright + Python), Performance Testing (JMeter)  
 
 **🔨 Tools**  
-Jira, Zephyr Scale, TestRail, Postman, JMeter, Playwright, Git, GitHub  
+Jira, Bugzilla, Zephyr Scale, TestRail, Postman, JMeter, Playwright, Git, GitHub  
 
 **🗄️ Database**  
 SQL (MySQL, SQL Server) for data validation and integrity checks  
