@@ -70,7 +70,7 @@ Manual Testing, API Testing (Postman), Database Testing (SQL), Test Automation (
 Jira, Bugzilla, Zephyr Scale, TestRail, Postman, JMeter, Playwright, Git, GitHub  
 
 **🗄️ Database**  
-SQL (MySQL, SQL Server) for data validation and integrity checks  
+SQL (MySQL, SQL Server, SQLyog) for data validation and integrity checks  
 
 **📱 Platforms**  
 Web, Desktop, iOS, Android  
