@@ -32,11 +32,14 @@
 ## 💼 Experience
 
 **🏢 SQA Engineer at SAT Japan** *(Aug 2024 – Present)*  
-- Functional, regression, exploratory, and UI/UX testing on web and mobile (iOS & Android)  
-- API testing with Postman for vehicle listings, auctions, and authentication flows  
-- Defect tracking and sprint participation in Jira  
-- Built and maintain a Playwright automation framework with 36+ tests using Page Object Model  
-- Supports headed/headless, parallel execution (`pytest-xdist`), and multi-browser (Chromium, Firefox)  
+- Execute end-to-end functional, regression, and exploratory testing across web and mobile platforms.  
+- Design test plans, execute structured test cases, and track defects in Jira across sprints.  
+- Conduct cross-browser and cross-device compatibility testing to ensure seamless UI/UX.  
+- Validate REST APIs using Postman for vehicle listings, auctions, authentication, & user workflows.  
+- Validate data integrity in MySQL by cross-checking API responses against database records.  
+- Maintain Playwright automation framework covering 5+ modules, reducing regression effort by 20%.  
+- Supports headed/headless, parallel execution (`pytest-xdist`), and multi-browser (Chromium, Firefox)
+- Collaborate with the QA Lead and developers to verify fixes and support release validation.
 
 **🏢 SQA Intern at Cross Solutions** *(May 2024 – July 2024)*  
 - Tested SaaS modules including Mock Exams and Course Library  
