@@ -29,22 +29,104 @@
 
 ---
 
-## 💼 Experience
+# 💼 Professional Experience
 
-**🏢 SQA Engineer at SAT Japan** *(Aug 2024 – Present)*  
-- Execute end-to-end functional, regression, and exploratory testing across web and mobile platforms.  
-- Design test plans, execute structured test cases, and track defects in Jira across sprints.  
-- Conduct cross-browser and cross-device compatibility testing to ensure seamless UI/UX.  
-- Validate REST APIs using Postman for vehicle listings, auctions, authentication, & user workflows.  
-- Validate data integrity in MySQL by cross-checking API responses against database records.  
-- Maintain Playwright automation framework covering 5+ modules, reducing regression effort by 20%.  
-- Supports headed/headless, parallel execution (`pytest-xdist`), and multi-browser (Chromium, Firefox)
-- Collaborate with the QA Lead and developers to verify fixes and support release validation.
+## SAT Japan
+**SQA Engineer** | *Aug 2024 – Present*
 
-**🏢 SQA Intern at Cross Solutions** *(May 2024 – July 2024)*  
-- Tested SaaS modules including Mock Exams and Course Library  
-- Wrote and executed test cases in Zephyr Scale; logged bugs in Jira  
-- Performed API and basic SQL validation  
+**Domain**  
+Automotive E-commerce • Vehicle Marketplace • Live Auctions • International Shipping • Web & Mobile (Android & iOS)
+
+**Product Overview**
+
+SAT Japan is a product-based automotive e-commerce platform that enables customers and dealers worldwide to buy, sell, negotiate, and auction Japanese vehicles through web and mobile applications. The platform manages the complete customer journey from vehicle discovery to payment, international shipping, and order management.
+
+### Highlights
+
+| Metric | Value |
+|---------|------:|
+| Bugs Reported | **900+** |
+| Test Cases Designed & Executed | **500+** |
+| Regression Test Suite | **200+** |
+| Release Test Coverage | **90%+** *(planned release scope)* |
+| Business Modules Tested | **10+** |
+| Automation Coverage | **5+ Core Modules** |
+
+### Responsibilities
+
+- Own quality assurance activities across core business modules, including Used Cars, New Cars, Auctions, Reservations, Negotiations, Search & Filters, Sell My Car, Checkout, Orders, International Shipping, Dealer Portal, Admin Panel, and Android & iOS mobile applications.
+- Design, execute, and maintain **500+** test cases, including a regression suite of **200+** scenarios covering critical business workflows.
+- Validate end-to-end business workflows spanning vehicle discovery, auction bidding, negotiations, checkout, payment, international shipping, and order completion.
+- Perform REST API testing using Postman and validate backend data integrity through MySQL database verification.
+- Build and maintain Playwright automation scripts using Python and Pytest for high-priority regression scenarios, reducing manual regression effort by approximately **20%**.
+- Conduct API performance and load testing using Apache JMeter to evaluate backend response times, reliability, and application scalability.
+- Validate sprint releases and production hotfixes through targeted regression of critical business workflows before production deployment.
+- Perform exploratory testing focused on edge cases, API failures, slow network conditions, invalid user inputs, and real-device scenarios to identify production-impacting issues.
+- Collaborate with Product Managers, QA Leads, Backend, Frontend, and Mobile developers to validate business requirements, verify defect fixes, and ensure release readiness.
+
+**Tools & Technologies**
+
+`Playwright` • `Python` • `Pytest` • `Postman` • `Apache JMeter` • `MySQL` • `Jira` • `Git` • `Figma` • `Chrome DevTools`
+
+---
+
+## YolKar
+**SQA Engineer** *(Part-time · Remote)* | *Apr 2026 – Present*
+
+**Domain**  
+Ride-sharing • Mobility Platform • Intercity Carpooling • Mobile Application
+
+**Product Overview**
+
+YolKar is a ride-sharing platform focused on intercity travel, allowing Car Owners to publish scheduled rides while Passengers discover and reserve available seats. The platform is designed as a scalable mobility ecosystem with future expansion into intra-city ride-hailing services.
+
+### Highlights
+
+| Metric | Value |
+|---------|------:|
+| Test Cases Designed | **150+** |
+| Bugs Reported | **40+** |
+| APIs Validated | **20+** |
+| MVP Functional Coverage | **90%+** |
+
+### Responsibilities
+
+- Lead QA activities for the Scheduled Ride module from feature development through MVP release readiness.
+- Validate complete business workflows including Car Owner onboarding, Passenger registration, identity verification, ride publishing, ride discovery, seat booking, trip lifecycle, and notification flows.
+- Perform REST API validation using Postman to verify authentication, ride management, booking, profile, and location services.
+- Conduct API performance and load testing using Apache JMeter to assess application scalability before production deployment.
+- Verify UI implementation against Figma designs across mobile devices to ensure consistency with product requirements.
+- Identify business workflow gaps, usability issues, and edge cases during feature implementation, contributing to overall product quality.
+- Collaborate directly with the Product Owner and development team to validate business requirements and newly implemented features throughout the development lifecycle.
+
+**Tools & Technologies**
+
+`Postman` • `Apache JMeter` • `MySQL` • `Jira` • `TestRail` • `Figma` • `Chrome DevTools`
+
+---
+
+## Cross Solutions
+**SQA Intern** | *May 2024 – Jul 2024*
+
+**Domain**  
+SaaS • Cloud Certification • E-learning Platform
+
+**Product Overview**
+
+Contributed to the quality assurance of **SaaSGuru**, a cloud certification platform that provides expert-led learning content, practice exams, and mock exams for cloud certification preparation.
+
+### Responsibilities
+
+- Tested core SaaS modules including Mock Exams, Course Library, user authentication, and exam management workflows.
+- Designed and executed sprint-based test cases using Zephyr Scale under QA Lead supervision.
+- Performed functional, regression, and exploratory testing across assigned product features.
+- Validated REST APIs using Postman to verify exam retrieval, submission, and result processing.
+- Performed SQL validation to confirm backend data consistency during feature verification.
+- Logged, verified, and tracked defects using Jira throughout the software testing lifecycle.
+
+**Tools & Technologies**
+
+`Postman` • `Jira` • `Zephyr Scale` • `SQL` • `Chrome DevTools`
 
 ---
 
