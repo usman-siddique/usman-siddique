@@ -31,7 +31,7 @@
 
 # 💼 Professional Experience
 
-## SAT Japan
+## [SAT Japan](https://satjapan.com)
 **SQA Engineer** | *Aug 2024 – Present*
 
 **Domain**  
@@ -54,12 +54,12 @@ SAT Japan is a product-based automotive e-commerce platform that enables custome
 
 ### Responsibilities
 
-- Own quality assurance activities across core business modules, including Used Cars, New Cars, Auctions, Reservations, Negotiations, Search & Filters, Sell My Car, Checkout, Orders, International Shipping, Dealer Portal, Admin Panel, and Android & iOS mobile applications.
+- Lead end-to-end quality assurance across core business modules, including Used Cars, New Cars, Auctions, Reservations, Negotiations, Search & Filters, Sell My Car, Checkout, Orders, International Shipping, Dealer Portal, Admin Panel, and Android & iOS mobile applications.
 - Design, execute, and maintain **500+** test cases, including a regression suite of **200+** scenarios covering critical business workflows.
 - Validate end-to-end business workflows spanning vehicle discovery, auction bidding, negotiations, checkout, payment, international shipping, and order completion.
 - Perform REST API testing using Postman and validate backend data integrity through MySQL database verification.
-- Build and maintain Playwright automation scripts using Python and Pytest for high-priority regression scenarios, reducing manual regression effort by approximately **20%**.
-- Conduct API performance and load testing using Apache JMeter to evaluate backend response times, reliability, and application scalability.
+- Develop and maintain a Playwright automation framework using Python and Pytest for high-priority regression scenarios, reducing manual regression effort by approximately **20%**.
+- Design and execute API performance and load tests using Apache JMeter to evaluate backend response times, scalability, stability, and reliability.
 - Validate sprint releases and production hotfixes through targeted regression of critical business workflows before production deployment.
 - Perform exploratory testing focused on edge cases, API failures, slow network conditions, invalid user inputs, and real-device scenarios to identify production-impacting issues.
 - Collaborate with Product Managers, QA Leads, Backend, Frontend, and Mobile developers to validate business requirements, verify defect fixes, and ensure release readiness.
@@ -70,7 +70,7 @@ SAT Japan is a product-based automotive e-commerce platform that enables custome
 
 ---
 
-## YolKar
+## [YolKar](https://yolkar.com)
 **SQA Engineer** *(Part-time · Remote)* | *Apr 2026 – Present*
 
 **Domain**  
@@ -91,7 +91,7 @@ YolKar is a ride-sharing platform focused on intercity travel, allowing Car Owne
 
 ### Responsibilities
 
-- Lead QA activities for the Scheduled Ride module from feature development through MVP release readiness.
+- Own QA activities for the Scheduled Ride MVP from feature development through release readiness.
 - Validate complete business workflows including Car Owner onboarding, Passenger registration, identity verification, ride publishing, ride discovery, seat booking, trip lifecycle, and notification flows.
 - Perform REST API validation using Postman to verify authentication, ride management, booking, profile, and location services.
 - Conduct API performance and load testing using Apache JMeter to assess application scalability before production deployment.
@@ -105,7 +105,7 @@ YolKar is a ride-sharing platform focused on intercity travel, allowing Car Owne
 
 ---
 
-## Cross Solutions
+## [Cross Solutions](https://www.saasguru.co/)
 **SQA Intern** | *May 2024 – Jul 2024*
 
 **Domain**  
@@ -128,9 +128,26 @@ Contributed to the quality assurance of **SaaSGuru**, a cloud certification plat
 
 `Postman` • `Jira` • `Zephyr Scale` • `SQL` • `Chrome DevTools`
 
+
 ---
 
-## 🔧 Featured Project
+## 🧩 Testing Domains
+
+- Automotive E-commerce
+- Ride-sharing & Mobility
+- SaaS Platforms
+- Mobile Applications
+- REST API Testing
+- Performance & Load Testing
+
+
+---
+
+### 🚗 YolKar QA
+
+> Functional, API, performance, UI/UX and release validation for an intercity ride-sharing platform.
+
+### 🚘 SAT Japan Test Automation Framework
 
 ### [SAT Japan Test Automation Framework](https://github.com/usman-siddique/SAT_Automation)
 
@@ -143,6 +160,12 @@ Contributed to the quality assurance of **SaaSGuru**, a cloud certification plat
 | Coverage | 36+ tests covering Sell My Car, Car Services, and end-to-end flows |
 | Execution | Headed / Headless, Parallel (`pytest-xdist`), Multi-browser (Chromium, Firefox) |
 | Reporting | pytest-html with auto-screenshots on failure |
+
+
+
+### ⚡ JMeter Performance Testing
+
+> API load and performance testing using Apache JMeter, including response-time analysis, throughput, and scalability validation.
 
 ---
 
