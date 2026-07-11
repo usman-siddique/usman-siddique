@@ -23,7 +23,7 @@
 🔍 &nbsp;Functional, Regression, Exploratory & UI/UX Testing  Web & Mobile (iOS & Android)  
 📡 &nbsp;REST API Testing & Validation using Postman  
 ⚡ &nbsp;Performance & Load Testing with Apache JMeter  
-🗄️ &nbsp;Database Testing – Data validation, integrity checks, and backend verification using SQL (MySQL, SQL Server)  
+🗄️ &nbsp;Database Testing – Data validation, integrity checks, and backend verification using SQL (MySQL, SQL Server, SQLyog)  
 🤖 &nbsp;Test Automation with Playwright + Python (POM, pytest, multi-browser)  
 🐞 &nbsp;Defect tracking & sprint participation in Jira (Agile/Scrum)  
 
@@ -66,7 +66,7 @@ SAT Japan is a product-based automotive e-commerce platform that enables custome
 
 **Tools & Technologies**
 
-`Playwright` • `Python` • `Pytest` • `Postman` • `Apache JMeter` • `MySQL` • `Jira` • `Git` • `Figma` • `Chrome DevTools`
+`Playwright` • `Python` • `Pytest` • `Postman` • `JMeter` • `SQLyog` • `Jira` • `BrowserStack ` • `Git` • `Figma` • `Chrome DevTools`
 
 ---
 
@@ -101,7 +101,7 @@ YolKar is a ride-sharing platform focused on intercity travel, allowing Car Owne
 
 **Tools & Technologies**
 
-`Postman` • `Apache JMeter` • `MySQL` • `Jira` • `TestRail` • `Figma` • `Chrome DevTools`
+`Postman` • `JMeter` • `MySQL` • `Jira` • `TestRail` • `Figma` • `BrowserStack ` • `Chrome DevTools`
 
 ---
 
@@ -126,7 +126,7 @@ Contributed to the quality assurance of **SaaSGuru**, a cloud certification plat
 
 **Tools & Technologies**
 
-`Postman` • `Jira` • `Zephyr Scale` • `SQL` • `Chrome DevTools`
+`Postman` • `Jira` • `Zephyr Scale` • `MySQL` • `Chrome DevTools`
 
 
 ---
@@ -139,7 +139,6 @@ Contributed to the quality assurance of **SaaSGuru**, a cloud certification plat
 - Mobile Applications
 - REST API Testing
 - Performance & Load Testing
-
 
 ---
 
@@ -175,7 +174,7 @@ Contributed to the quality assurance of **SaaSGuru**, a cloud certification plat
 Manual Testing, API Testing (Postman), Database Testing (SQL), Test Automation (Playwright + Python), Performance Testing (JMeter)  
 
 **🔨 Tools**  
-Jira, Bugzilla, Zephyr Scale, TestRail, Postman, JMeter, Playwright, Git, GitHub  
+Jira, Bugzilla, Zephyr Scale, TestRail, Postman, JMeter, Playwright, BrowserStack, Git, GitHub  
 
 **🗄️ Database**  
 SQL (MySQL, SQL Server, SQLyog) for data validation and integrity checks  
