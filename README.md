@@ -2,7 +2,7 @@
 <h3 align="center">SQA Engineer · SAT Japan</h3>
 
 <p align="center">
-  Quality-focused software tester with hands-on experience in manual, API, and automated testing<br>
+  Quality-focused software tester with 2 years of hands-on experience in manual, API, and automated testing<br>
   of web and mobile applications, actively building automation skills with Playwright & Python.
 </p>
 
