@@ -2,7 +2,7 @@
 <h3 align="center">SQA Engineer · SAT Japan</h3>
 
 <p align="center">
-  Quality-focused software tester with 2 years of hands-on experience in manual, API, and automated testing<br>
+  Quality-focused software tester with 2+ years of hands-on experience in manual, API, and automated testing<br>
   of web and mobile applications, actively building automation skills with Playwright & Python.
 </p>
 
@@ -45,17 +45,16 @@ SAT Japan is a product-based automotive e-commerce platform that enables custome
 
 | Metric | Value |
 |---------|------:|
-| Bugs Reported | **900+** |
-| Test Cases Designed & Executed | **500+** |
+| Bugs Reported | **600+** |
 | Regression Test Suite | **200+** |
 | Release Test Coverage | **90%+** *(planned release scope)* |
-| Business Modules Tested | **10+** |
+| Business Modules Tested | **15+** |
 | Automation Coverage | **5+ Core Modules** |
 
 ### Responsibilities
 
 - Lead end-to-end quality assurance across core business modules, including Used Cars, New Cars, Auctions, Reservations, Negotiations, Search & Filters, Sell My Car, Checkout, Orders, International Shipping, Dealer Portal, Admin Panel, and Android & iOS mobile applications.
-- Design, execute, and maintain **500+** test cases, including a regression suite of **200+** scenarios covering critical business workflows.
+- Design and execute test cases, including a regression suite of **200+** scenarios covering critical business workflows.
 - Validate end-to-end business workflows spanning vehicle discovery, auction bidding, negotiations, checkout, payment, international shipping, and order completion.
 - Perform REST API testing using Postman and validate backend data integrity through MySQL database verification.
 - Develop and maintain a Playwright automation framework using Python and Pytest for high-priority regression scenarios, reducing manual regression effort by approximately **20%**.
@@ -85,8 +84,8 @@ YolKar is a ride-sharing platform focused on intercity travel, allowing Car Owne
 | Metric | Value |
 |---------|------:|
 | Test Cases Designed | **150+** |
-| Bugs Reported | **40+** |
-| APIs Validated | **20+** |
+| Bugs Reported | **50+** |
+| APIs Validated | **30+** |
 | MVP Functional Coverage | **90%+** |
 
 ### Responsibilities
@@ -101,7 +100,7 @@ YolKar is a ride-sharing platform focused on intercity travel, allowing Car Owne
 
 **Tools & Technologies**
 
-`Postman` • `JMeter` • `MySQL` • `Jira` • `TestRail` • `Figma` • `BrowserStack ` • `Chrome DevTools`
+`Postman` • `JMeter` • `MySQL` • `Jira` • `TestRail` • `Figma` • `BrowserStack `
 
 ---
 
