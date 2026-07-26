@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">SQA Engineer · SAT Japan</h3>
+<h3 align="center">SQA Engineer @ SAT Japan</h3>
 
 <p align="center">
   Quality-focused software tester with 2+ years of hands-on experience in manual, API, and automated testing<br>
