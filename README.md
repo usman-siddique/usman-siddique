@@ -70,7 +70,7 @@ SAT Japan is a product-based automotive e-commerce platform that enables custome
 ---
 
 ## [YolKar](https://yolkar.com)
-**SQA Engineer** *(Part-time · Remote)* | *Apr 2026 – Present*
+**SQA Engineer** *(Part-time · Remote)* | *Dec 2025 – Present*
 
 **Domain**  
 Ride-sharing • Mobility Platform • Intercity Carpooling • Mobile Application
