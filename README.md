@@ -48,7 +48,7 @@ SAT Japan is a product-based automotive e-commerce platform that enables custome
 | Bugs Reported | **600+** |
 | Regression Test Suite | **200+** |
 | Release Test Coverage | **90%+** *(planned release scope)* |
-| Business Modules Tested | **15+** |
+| Business Modules Tested | **20+** |
 | Automation Coverage | **5+ Core Modules** |
 
 ### Responsibilities
