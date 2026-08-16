@@ -49,7 +49,7 @@ SAT Japan is a product-based automotive e-commerce platform that enables custome
 | Regression Test Suite | **200+** |
 | Release Test Coverage | **90%+** *(planned release scope)* |
 | Business Modules Tested | **20+** |
-| Automation Coverage | **39 Tests · 4 Automated Modules** |
+| Automation Coverage | **40 Tests · 5 Automated Modules** |
 
 ### Responsibilities
 
@@ -155,7 +155,7 @@ Contributed to the quality assurance of **SaaSGuru**, a cloud certification plat
 |---|---|
 | Stack | Python · Playwright · pytest |
 | Pattern | Page Object Model (POM) |
-| Coverage | 39 tests covering Sell My Car, Car Services, About Us, and Buy Flow E2E |
+| Coverage | 40 tests covering Sell My Car, Car Services, About Us, and Buy Flow E2E |
 | Execution | Headed / Headless, Parallel (`pytest-xdist`), Multi-browser (Chromium, Firefox, WebKit), Sprint / Development |
 | Reporting | Allure with retries, failure screenshots, browser diagnostics, and execution history |
 
