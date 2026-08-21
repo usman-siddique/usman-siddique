@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
+<h1 align="center">Hi, I'm Muhammad Usman</h1>
 <h3 align="center">SQA Engineer @ SAT Japan</h3>
 
 <p align="center">
