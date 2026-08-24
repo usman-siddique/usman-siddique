@@ -20,7 +20,7 @@
 
 ## 🧪 What I Do
 
-🔍 &nbsp;Functional, Regression, Exploratory & UI/UX Testing  Web & Mobile (iOS & Android)  
+🔍 &nbsp;Functional, Regression, Exploratory, Integration & UI/UX Testing  Web & Mobile (iOS & Android)  
 📡 &nbsp;REST API Testing & Validation using Postman  
 ⚡ &nbsp;Performance & Load Testing with Apache JMeter  
 🗄️ &nbsp;Database Testing – Data validation, integrity checks, and backend verification using SQL (MySQL, SQL Server, SQLyog)  
