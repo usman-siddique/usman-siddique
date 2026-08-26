@@ -9,7 +9,8 @@
 <p align="center">
   <a href="mailto:usmansiddique007021@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/m-usman-siddique">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/usman-siddique">🐙 GitHub</a>
+  <a href="https://github.com/usman-siddique">🐙 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://usman-sqa.vercel.app">🌐 Portfolio</a>
 </p>
 
 <p align="center">
@@ -164,6 +165,26 @@ Contributed to the quality assurance of **SaaSGuru**, a cloud certification plat
 ### ⚡ JMeter Performance Testing
 
 > API load and performance testing using Apache JMeter, including response-time analysis, throughput, and scalability validation.
+
+---
+
+## 🌐 Portfolio Website
+
+A responsive portfolio presenting my professional SQA experience, production case studies, testing capabilities, automation work, credentials, and contact channels.
+
+**Live site:** [usman-sqa.vercel.app](https://usman-sqa.vercel.app)  
+**Repository:** [usman-siddique/sqa-portfolio](https://github.com/usman-siddique/sqa-portfolio) *(replace with actual repo name if different)*
+
+**Highlights:**
+- Production case studies for SAT Japan, YolKar, and Cross Solutions
+- Manual, API, database, performance, mobile, and automation testing coverage
+- Playwright and Python automation projects in the Engineering Lab
+- Responsive experience timeline, education, certifications, and resume access
+- Functional contact form with validation, spam protection, and Resend delivery
+- Light and dark themes with reduced-motion support
+- Dynamic metadata, Open Graph images, `robots.txt`, and `sitemap.xml`
+
+**Technology stack:** Next.js 16, TypeScript, Tailwind CSS v4, Motion, React Hook Form, Zod, Resend, Lucide React, next-themes, Vercel.
 
 ---
 
