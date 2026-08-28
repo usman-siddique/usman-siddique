@@ -156,7 +156,7 @@ Contributed to the quality assurance of **SaaSGuru**, a cloud certification plat
 |---|---|
 | Stack | Python · Playwright · pytest |
 | Pattern | Page Object Model (POM) |
-| Coverage | 68 tests covering Sell My Car, Car Services, About Us, and Buy Flow E2E |
+| Coverage | 68 tests covering Sell My Car, Car Services, About Us, Reservation and Buy Flow E2E |
 | Execution | Headed / Headless, Parallel (`pytest-xdist`), Multi-browser (Chromium, Firefox, WebKit), Sprint / Development |
 | Reporting | Allure with retries, failure screenshots, browser diagnostics, and execution history |
 
