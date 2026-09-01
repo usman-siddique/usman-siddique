@@ -86,8 +86,8 @@ YolKar is a ride-sharing platform focused on intercity travel, allowing Car Owne
 |---------|------:|
 | Test Cases Designed | **150+** |
 | Bugs Reported | **50+** |
-| APIs Validated | **30+** |
-| MVP Functional Coverage | **90%+** |
+| APIs Validated | **40+** |
+| MVP Functional Coverage | **95%+** |
 
 ### Responsibilities
 
