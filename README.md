@@ -178,7 +178,6 @@ A responsive portfolio presenting my professional SQA experience, production cas
 **Highlights:**
 - Production case studies for SAT Japan, YolKar, and Cross Solutions
 - Manual, API, database, performance, mobile, and automation testing coverage
-- Playwright and Python automation projects in the Engineering Lab
 - Responsive experience timeline, education, certifications, and resume access
 - Functional contact form with validation, spam protection, and Resend delivery
 - Light and dark themes with reduced-motion support
