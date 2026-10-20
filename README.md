@@ -25,7 +25,7 @@
 📡 &nbsp;REST API Testing & Validation using Postman  
 ⚡ &nbsp;Performance & Load Testing with Apache JMeter  
 🗄️ &nbsp;Database Testing – Data validation, integrity checks, and backend verification using SQL (MySQL, SQL Server, SQLyog)  
-🤖 &nbsp;Test Automation with Playwright + Python (POM, pytest, multi-browser)  
+🤖 &nbsp;Test Automation with Playwright + Python (POM, pytest)  
 🐞 &nbsp;Defect tracking & sprint participation in Jira (Agile/Scrum)  
 
 ---
