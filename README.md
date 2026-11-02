@@ -1,227 +1,208 @@
 <h1 align="center">Hi, I'm Muhammad Usman</h1>
-<h3 align="center">SQA Engineer @ SAT Japan</h3>
+<h3 align="center">SQA Engineer | Manual & Automation Testing</h3>
 
 <p align="center">
-  Quality-focused software tester with 2+ years of hands-on experience in manual, API, Performace and automated testing<br>
-  of web and mobile applications, actively building automation skills with Playwright & Python.
+  Software Quality Assurance Engineer with 2+ years of hands-on experience testing web and mobile applications.<br>
+  Skilled in functional, regression, API, database, and performance testing, with practical experience<br>
+  building test automation frameworks using Playwright, Python, and pytest.
 </p>
 
 <p align="center">
   <a href="mailto:usmansiddique007021@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/m-usman-siddique">🔗 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/usman-siddique">🐙 GitHub</a> &nbsp;|&nbsp;
-  <a href="https://usman-sqa.vercel.app">🌐 Portfolio</a>
+  <a href="https://usman-sqa.vercel.app/">🌐 Portfolio</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usman-siddique&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=usman-siddique&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views" />
 </p>
 
 ---
 
 ## 🧪 What I Do
 
-🔍 &nbsp;Functional, Regression, Exploratory, Integration & UI/UX Testing  Web & Mobile (iOS & Android)  
-📡 &nbsp;REST API Testing & Validation using Postman  
-⚡ &nbsp;Performance & Load Testing with Apache JMeter  
-🗄️ &nbsp;Database Testing – Data validation, integrity checks, and backend verification using SQL (MySQL, SQL Server, SQLyog)  
-🤖 &nbsp;Test Automation with Playwright + Python (POM, pytest)  
-🐞 &nbsp;Defect tracking & sprint participation in Jira (Agile/Scrum)  
+- **Manual Testing:** Functional, regression, exploratory, integration, and UI/UX testing across web and mobile applications (Android and iOS).
+- **API Testing:** REST API validation, authentication checks, and response verification using Postman.
+- **Performance Testing:** Load and performance testing using Apache JMeter.
+- **Database Testing:** Data validation, integrity checks, and backend verification using SQL (MySQL and SQL Server).
+- **Test Automation:** End-to-end automation with Playwright, Python, pytest, and the Page Object Model (POM).
+- **Defect Management:** Bug reporting, retesting, and sprint collaboration using Jira in Agile/Scrum environments.
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
-## [SAT Japan](https://satjapan.com)
+### [SAT Japan](https://satjapan.com/)
 **SQA Engineer** | *Aug 2024 – Present*
 
-**Domain**  
-Automotive E-commerce • Vehicle Marketplace • Live Auctions • International Shipping • Web & Mobile (Android & iOS)
+**Domain:** Automotive E-commerce • Vehicle Marketplace • Live Auctions • International Shipping • Web & Mobile
 
 **Product Overview**
 
-SAT Japan is a product-based automotive e-commerce platform that enables customers and dealers worldwide to buy, sell, negotiate, and auction Japanese vehicles through web and mobile applications. The platform manages the complete customer journey from vehicle discovery to payment, international shipping, and order management.
+SAT Japan is an automotive e-commerce platform supporting international vehicle purchases, auctions, negotiations, payments, shipping, and order management through web and mobile applications.
 
-### Highlights
+**Highlights**
 
 | Metric | Value |
-|---------|------:|
+|---|---:|
 | Bugs Reported | **600+** |
-| Regression Test Suite | **200+** |
-| Release Test Coverage | **90%+** *(planned release scope)* |
+| Regression Test Scenarios | **200+** |
+| Release Test Coverage | **90%+** *(of planned release scope)* |
 | Business Modules Tested | **20+** |
-| Automation Coverage | **68 Tests · 6 Automated Modules** |
+| Automation Coverage | **68 tests across 6 modules** |
 
-### Responsibilities
+**Key Responsibilities**
 
-- Lead end-to-end quality assurance across core business modules, including Used Cars, New Cars, Auctions, Reservations, Negotiations, Search & Filters, Sell My Car, Checkout, Orders, International Shipping, Dealer Portal, Admin Panel, and Android & iOS mobile applications.
-- Design and execute test cases, including a regression suite of **200+** scenarios covering critical business workflows.
-- Validate end-to-end business workflows spanning vehicle discovery, auction bidding, negotiations, checkout, payment, international shipping, and order completion.
-- Perform REST API testing using Postman and validate backend data integrity through MySQL database verification.
-- Develop and maintain a Playwright automation framework using Python and Pytest for high-priority regression scenarios, reducing manual regression effort by approximately **20%**.
-- Design and execute API performance and load tests using Apache JMeter to evaluate backend response times, scalability, stability, and reliability.
-- Validate sprint releases and production hotfixes through targeted regression of critical business workflows before production deployment.
-- Perform exploratory testing focused on edge cases, API failures, slow network conditions, invalid user inputs, and real-device scenarios to identify production-impacting issues.
-- Collaborate with Product Managers, QA Leads, Backend, Frontend, and Mobile developers to validate business requirements, verify defect fixes, and ensure release readiness.
+- Lead end-to-end QA activities for business-critical features, including vehicle listings, auctions, reservations, negotiations, checkout, orders, shipping, dealer workflows, admin functions, and mobile applications.
+- Design, maintain, and execute test scenarios covering core user journeys and high-risk business workflows.
+- Validate REST APIs with Postman and verify backend data accuracy using MySQL queries.
+- Develop and maintain a Playwright automation framework with Python and pytest, helping reduce manual regression effort by approximately **20%**.
+- Conduct API load and performance tests with Apache JMeter to assess response times, reliability, and system behavior under load.
+- Perform exploratory and negative testing for invalid inputs, network issues, API failures, and real-device edge cases.
+- Verify sprint releases, production hotfixes, and defect resolutions before deployment.
+- Collaborate with product managers, QA leads, and backend, frontend, and mobile developers to clarify requirements and support release readiness.
 
-**Tools & Technologies**
-
-`Playwright` • `Python` • `Pytest` • `Postman` • `JMeter` • `SQLyog` • `Jira` • `BrowserStack ` • `Git` • `Figma` • `Chrome DevTools`
+**Tools & Technologies:** `Playwright` • `Python` • `pytest` • `Postman` • `JMeter` • `MySQL` • `SQLyog` • `Jira` • `BrowserStack` • `Git` • `Figma` • `Chrome DevTools`
 
 ---
 
-## [YolKar](https://yolkar.com)
+### [YolKar](https://yolkar.com/)
 **SQA Engineer** *(Part-time · Remote)* | *Dec 2025 – Present*
 
-**Domain**  
-Ride-sharing • Mobility Platform • Intercity Carpooling • Mobile Application
+**Domain:** Ride-sharing • Mobility Platform • Intercity Carpooling • Mobile Application
 
 **Product Overview**
 
-YolKar is a ride-sharing platform focused on intercity travel, allowing Car Owners to publish scheduled rides while Passengers discover and reserve available seats. The platform is designed as a scalable mobility ecosystem with future expansion into intra-city ride-hailing services.
+YolKar is an intercity ride-sharing platform that allows car owners to publish rides and passengers to find and reserve available seats.
 
-### Highlights
+**Highlights**
 
 | Metric | Value |
-|---------|------:|
+|---|---:|
 | Test Cases Designed | **150+** |
 | Bugs Reported | **50+** |
 | APIs Validated | **40+** |
 | MVP Functional Coverage | **95%+** |
 
-### Responsibilities
+**Key Responsibilities**
 
-- Own QA activities for the Scheduled Ride MVP from feature development through release readiness.
-- Validate complete business workflows including Car Owner onboarding, Passenger registration, identity verification, ride publishing, ride discovery, seat booking, trip lifecycle, and notification flows.
-- Perform REST API validation using Postman to verify authentication, ride management, booking, profile, and location services.
-- Conduct API performance and load testing using Apache JMeter to assess application scalability before production deployment.
-- Verify UI implementation against Figma designs across mobile devices to ensure consistency with product requirements.
-- Identify business workflow gaps, usability issues, and edge cases during feature implementation, contributing to overall product quality.
-- Collaborate directly with the Product Owner and development team to validate business requirements and newly implemented features throughout the development lifecycle.
+- Own QA activities for the Scheduled Ride MVP, from feature testing through release validation.
+- Test onboarding, identity verification, ride publishing, ride discovery, seat reservations, trip management, and notification workflows.
+- Validate authentication, booking, ride management, profile, and location APIs using Postman.
+- Conduct API performance and load tests using Apache JMeter.
+- Verify mobile UI implementations against Figma designs and product requirements.
+- Identify usability issues, business-logic gaps, and edge cases, working directly with the product owner and development team to resolve them.
 
-**Tools & Technologies**
-
-`Postman` • `JMeter` • `MySQL` • `Jira` • `TestRail` • `Figma` • `BrowserStack `
+**Tools & Technologies:** `Postman` • `JMeter` • `MySQL` • `Jira` • `TestRail` • `Figma` • `BrowserStack`
 
 ---
 
-## [Cross Solutions](https://www.saasguru.co/)
+### [Cross Solutions](https://www.saasguru.co/)
 **SQA Intern** | *May 2024 – Jul 2024*
 
-**Domain**  
-SaaS • Cloud Certification • E-learning Platform
+**Domain:** SaaS • Cloud Certification • E-learning
 
 **Product Overview**
 
-Contributed to the quality assurance of **SaaSGuru**, a cloud certification platform that provides expert-led learning content, practice exams, and mock exams for cloud certification preparation.
+Supported QA for SaaSGuru, an online cloud-certification learning platform offering courses, practice questions, and mock exams.
 
-### Responsibilities
+**Key Responsibilities**
 
-- Tested core SaaS modules including Mock Exams, Course Library, user authentication, and exam management workflows.
-- Designed and executed sprint-based test cases using Zephyr Scale under QA Lead supervision.
-- Performed functional, regression, and exploratory testing across assigned product features.
-- Validated REST APIs using Postman to verify exam retrieval, submission, and result processing.
-- Performed SQL validation to confirm backend data consistency during feature verification.
-- Logged, verified, and tracked defects using Jira throughout the software testing lifecycle.
+- Tested authentication, course library, mock exam, and exam management features.
+- Created and executed sprint-based test cases in Zephyr Scale under QA lead supervision.
+- Performed functional, regression, and exploratory testing.
+- Validated exam retrieval, submission, and results APIs using Postman, alongside SQL data checks.
+- Reported, verified, and tracked defects in Jira throughout the testing lifecycle.
 
-**Tools & Technologies**
-
-`Postman` • `Jira` • `Zephyr Scale` • `MySQL` • `Chrome DevTools`
-
+**Tools & Technologies:** `Postman` • `Jira` • `Zephyr Scale` • `MySQL` • `Chrome DevTools`
 
 ---
 
 ## 🧩 Testing Domains
 
-- Automotive E-commerce
-- Ride-sharing & Mobility
-- SaaS Platforms
-- Mobile Applications
-- REST API Testing
-- Performance & Load Testing
+- Automotive E-commerce and Vehicle Marketplaces
+- Ride-sharing and Mobility Platforms
+- SaaS and E-learning Applications
+- Web and Mobile Applications
+- REST API and Database Testing
+- Performance and Load Testing
 
 ---
 
-### 🚗 YolKar QA
-
-> Functional, API, performance, UI/UX and release validation for an intercity ride-sharing platform.
-
-### 🚘 SAT Japan Test Automation Framework
+## Selected QA Projects
 
 ### [SAT Japan Test Automation Framework](https://github.com/usman-siddique/SAT_Automation)
 
-> End-to-end automation framework for a global automotive e-commerce platform.
+End-to-end test automation for critical workflows in an automotive e-commerce platform.
 
-| 🏷️ Detail | 📌 Info |
+| Detail | Implementation |
 |---|---|
 | Stack | Python · Playwright · pytest |
-| Pattern | Page Object Model (POM) |
-| Coverage | 70 tests covering Sell My Car, Car Services, About Us, Reservation and Buy Flow E2E |
-| Execution | Headed / Headless, Parallel (`pytest-xdist`), Multi-browser (Chromium, Firefox, WebKit), Sprint / Development |
-| Reporting | Allure with retries, failure screenshots, browser diagnostics, and execution history |
+| Framework Design | Page Object Model (POM) |
+| Coverage | 68 automated tests across 6 modules |
+| Execution | Headed/headless, parallel (`pytest-xdist`), and Chromium/Firefox/WebKit support |
+| Reporting | Allure reports, failure screenshots, retries, and browser diagnostics |
 
+### [JMeter API Load & Performance Testing](https://github.com/usman-siddique/JMeter-API-Load-Performance-Testing)
 
+API performance testing with Apache JMeter, focusing on concurrent requests, response times, throughput, and application behavior under load.
 
-### ⚡ JMeter Performance Testing
+### YolKar QA
 
-> API load and performance testing using Apache JMeter, including response-time analysis, throughput, and scalability validation.
+Functional, API, performance, UI/UX, and release testing for an intercity ride-sharing mobile platform.
 
 ---
 
 ## 🌐 Portfolio Website
 
-A responsive portfolio presenting my professional SQA experience, production case studies, testing capabilities, automation work, credentials, and contact channels.
+**Live Website:** [usman-sqa.vercel.app](https://usman-sqa.vercel.app/)  
+**Source Code:** [github.com/usman-siddique/QA-Portfolio](https://github.com/usman-siddique/QA-Portfolio)
 
-**Live site:** [usman-sqa.vercel.app](https://usman-sqa.vercel.app)  
-**Repository:** [usman-siddique/sqa-portfolio](https://github.com/usman-siddique/sqa-portfolio) *(replace with actual repo name if different)*
+My portfolio presents SQA experience, project case studies, testing skills, certifications, and contact information.
 
-**Highlights:**
-- Production case studies for SAT Japan, YolKar, and Cross Solutions
-- Manual, API, database, performance, mobile, and automation testing coverage
-- Responsive experience timeline, education, certifications, and resume access
-- Functional contact form with validation, spam protection, and Resend delivery
-- Light and dark themes with reduced-motion support
-- Dynamic metadata, Open Graph images, `robots.txt`, and `sitemap.xml`
+**Highlights**
+- Case studies from SAT Japan, YolKar, and Cross Solutions.
+- Manual, API, database, performance, mobile, and automation testing experience.
+- Professional timeline, certifications, and resume access.
+- Responsive design, accessible theme options, and a contact form.
 
-**Technology stack:** Next.js 16, TypeScript, Tailwind CSS v4, Motion, React Hook Form, Zod, Resend, Lucide React, next-themes, Vercel.
+**Technology Stack:** Next.js 16, TypeScript, Tailwind CSS v4, Motion, React Hook Form, Zod, Resend, Lucide React, next-themes, and Vercel.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**🧪 Testing**  
-Manual Testing, API Testing (Postman), Database Testing (SQL), Test Automation (Playwright + Python), Performance Testing (JMeter)  
+**Testing:** Functional Testing • Regression Testing • Exploratory Testing • Integration Testing • REST API Testing • Database Testing • Performance Testing • Test Automation
 
-**🔨 Tools**  
-Jira, Bugzilla, Zephyr Scale, TestRail, Postman, JMeter, Playwright, BrowserStack, Git, GitHub  
+**Automation:** Playwright • Python • pytest • Page Object Model (POM) • Allure
 
-**🗄️ Database**  
-SQL (MySQL, SQL Server, SQLyog) for data validation and integrity checks  
+**Tools:** Jira • Bugzilla • Zephyr Scale • TestRail • Postman • Apache JMeter • BrowserStack • Git • GitHub • Chrome DevTools
 
-**📱 Platforms**  
-Web, Desktop, iOS, Android  
+**Databases:** MySQL • SQL Server • SQLyog
 
-**⚙️ Methodology**  
-Agile / Scrum  
+**Platforms:** Web • Desktop • Android • iOS
+
+**Methodology:** Agile / Scrum
 
 ---
 
 ## 📚 Certifications
 
-- 🎓 Playwright Python & Pytest for Web Automation Testing (Coursera, 2026)  
-- 🎓 Master JMeter on Live Apps for Performance Testing (Coursera, 2026)  
-- 🎓 API Testing with Postman (Udemy)  
-- 🎓 Manual Testing & Agile with Jira (Udemy)  
-- 🎓 IT Mustakbil Training Program (Systems Ltd, 2024)  
+- Playwright Python & Pytest for Web Automation Testing — Coursera (2026)
+- Master JMeter on Live Apps for Performance Testing — Coursera (2026)
+- API Testing with Postman — Udemy
+- Manual Testing & Agile with Jira — Udemy
+- IT Mustakbil Training Program — Systems Ltd (2024)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advancing Playwright automation, expanding test coverage and framework features  
-- Exploring AI-powered testing tools and techniques  
-- Integrating CI/CD pipelines (GitHub Actions) for continuous test execution  
+- Advancing Playwright automation and expanding regression coverage.
+- Exploring AI-assisted software testing tools and approaches.
+- Integrating GitHub Actions for continuous test execution and reporting.
 
 ---
 
-<p align="center"><i>Building quality software, one test at a time. 🚀</i></p>
+<p align="center"><i>Building quality software, one test at a time.</i></p>
