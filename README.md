@@ -28,6 +28,7 @@
 - **Database Testing:** Data validation, integrity checks, and backend verification using SQL (MySQL and SQL Server).
 - **Test Automation:** End-to-end automation with Playwright, Python, pytest, and the Page Object Model (POM).
 - **Defect Management:** Bug reporting, retesting, and sprint collaboration using Jira in Agile/Scrum environments.
+- **QA Process Automation:** Form-based reporting workflows integrating Jira activity, JavaScript validation, Google Gemini, and Slack through n8n.
 
 ---
 
@@ -144,6 +145,18 @@ End-to-end test automation for critical workflows in an automotive e-commerce pl
 | Execution | Headed/headless, parallel (`pytest-xdist`), and Chromium/Firefox/WebKit support |
 | Reporting | Allure reports, failure screenshots, retries, and browser diagnostics |
 
+### [AI-Powered Daily QA Report Generator (n8n)](https://github.com/usman-siddique/QA-Daily-Report-Generator-n8n)
+
+An n8n-based workflow that streamlines daily QA reporting by combining Jira activity with manual updates and generating a structured report for Slack.
+
+- Retrieves Jira issues through REST API and JQL, then verifies created, resolved, and reopened activity using issue changelogs.
+- Uses JavaScript for ticket classification and counts, while Google Gemini refines the written summary without changing the verified metrics.
+- Validates the final report structure and delivers it to Slack after the QA form is submitted.
+
+**Stack:** `n8n` · `JavaScript` · `Jira REST API` · `JQL` · `Google Gemini API` · `Slack`
+
+*The linked repository contains a sanitized, inactive workflow template, setup instructions, and a fictional sample report.*
+
 ### [JMeter API Load & Performance Testing](https://github.com/usman-siddique/JMeter-API-Load-Performance-Testing)
 
 API performance testing with Apache JMeter, focusing on concurrent requests, response times, throughput, and application behavior under load.
@@ -176,6 +189,8 @@ My portfolio presents SQA experience, project case studies, testing skills, cert
 **Testing:** Functional Testing • Regression Testing • Exploratory Testing • Integration Testing • REST API Testing • Database Testing • Performance Testing • Test Automation
 
 **Automation:** Playwright • Python • pytest • Page Object Model (POM) • Allure
+
+**QA Workflow Automation:** n8n • JavaScript • Jira REST API / JQL • Google Gemini API • Slack
 
 **Tools:** Jira • Bugzilla • Zephyr Scale • TestRail • Postman • Apache JMeter • BrowserStack • Git • GitHub • Chrome DevTools
 
