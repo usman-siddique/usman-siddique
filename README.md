@@ -216,7 +216,7 @@ My portfolio presents SQA experience, project case studies, testing skills, cert
 
 - Advancing Playwright automation and expanding regression coverage.
 - Exploring AI-assisted software testing tools and approaches.
-- Integrating GitHub Actions for continuous test execution and reporting.
+- CI/CD: Integrating GitHub Actions for continuous test execution and reporting.
 
 ---
 
