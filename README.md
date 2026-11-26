@@ -51,7 +51,7 @@ SAT Japan is an automotive e-commerce platform supporting international vehicle 
 | Regression Test Scenarios | **200+** |
 | Release Test Coverage | **90%+** *(of planned release scope)* |
 | Business Modules Tested | **20+** |
-| Automation Coverage | **68 tests across 6 modules** |
+| Automation Coverage | **161 tests across 6 modules** |
 
 **Key Responsibilities**
 
@@ -141,9 +141,9 @@ End-to-end test automation for critical workflows in an automotive e-commerce pl
 |---|---|
 | Stack | Python · Playwright · pytest |
 | Framework Design | Page Object Model (POM) |
-| Coverage | 68 automated tests across 6 modules |
-| Execution | Headed/headless, parallel (`pytest-xdist`), and Chromium/Firefox/WebKit support |
-| Reporting | Allure reports, failure screenshots, retries, and browser diagnostics |
+| Coverage | 161 automated tests across 6 modules |
+| Execution | Headed/headless, sequential and parallel execution with workflow-specific restrictions |
+| Reporting | Allure reports, failure screenshots, retries, browser diagnostics, execution history, and environment details |
 
 ### [AI-Powered Daily QA Report Generator (n8n)](https://github.com/usman-siddique/QA-Daily-Report-Generator-n8n)
 
